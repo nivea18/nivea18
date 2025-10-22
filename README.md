@@ -1,9 +1,8 @@
 <h1 align="center">✨ Olá! Meu nome é Nívea ✨</h1>
 
 <p align="center">
-  💻 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-  🌱 Apaixonada por tecnologia e design <br>
-  💚 Buscando me especializar em <strong>Python</strong> e <strong>Front-End</strong>
+  💻 <strong> Estudante de Análise e Desenvolvimento de Sistemas da faculdade UNINASSAU e possuo diploma do curso técnico em ADS. Tenho interesse na área de web designer e banco de dados. Minhas principais linguagens são Python e SQL.</strong><br>
+  💚<strong> Buscando me especializar em Python e Front-End.</strong>
 </p>
 
 ---
@@ -21,7 +20,7 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivea&layout=compact&theme=rose_pine&title_color=ff69b4&text_color=fce4ec&bg_color=20232a"/>
 </div>
 
-
+Connect with me!
 ---
 
 ### 🌸 Meu Portfólio
