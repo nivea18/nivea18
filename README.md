@@ -7,9 +7,10 @@
 
 ---
 
-### TECNOLOGIAS QUE USO:
+<h1 align="center"> Tecnologias que uso: </h1>
+  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,mysql" />
 </div>
 
 ---
@@ -22,6 +23,14 @@
 
 Connect with me!
 ---
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niveamaria/niveamaria/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niveamaria/niveamaria/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/niveamaria/niveamaria/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ### 🌸 Meu Portfólio
 🔗 [Veja meus projetos aqui](https://github.com/niveamaria?tab=repositories)
