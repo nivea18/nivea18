@@ -28,16 +28,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/niveaa09/)
 
 ---
-
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niveamaria/niveamaria/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niveamaria/niveamaria/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/niveamaria/niveamaria/output/github-contribution-grid-snake.svg">
-</picture>
-<br></br>
-
-
 ### 🌸 Meu Portfólio
 🔗 [Veja meus projetos aqui](https://github.com/niveamaria?tab=repositories)
 
