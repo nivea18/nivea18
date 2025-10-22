@@ -1,13 +1,13 @@
 <h1 align="center">✨ Olá! Meu nome é Nívea ✨</h1>
 
-<p align="center">
+
   💻 <strong> Estudante de Análise e Desenvolvimento de Sistemas da faculdade UNINASSAU e possuo diploma do curso técnico em ADS. Tenho interesse na área de web designer e banco de dados. Minhas principais linguagens são Python e SQL.</strong><br>
   💚<strong> Buscando me especializar em Python e Front-End.</strong>
 </p>
 
 ---
 
-<h1 align="center"> Tecnologias que uso: </h1>
+<h1 align="center"> My programming languages: </h1>
   
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,mysql" />
@@ -21,7 +21,12 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivea&layout=compact&theme=rose_pine&title_color=ff69b4&text_color=fce4ec&bg_color=20232a"/>
 </div>
 
-Connect with me!
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](niveamariademelosantos80@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/NíveaMaria/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/niveaa09/)
+
 ---
 
 
@@ -30,6 +35,7 @@ Connect with me!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niveamaria/niveamaria/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/niveamaria/niveamaria/output/github-contribution-grid-snake.svg">
 </picture>
+<br></br>
 
 
 ### 🌸 Meu Portfólio
