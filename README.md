@@ -30,7 +30,7 @@
 
 ---
 ### 🌸 Meu Portfólio
-🔗 [Veja meus projetos aqui](https://github.com/niveamaria?tab=repositories)
+🔗 [Veja meus projetos aqui](https://github.com/nivea18?tab=repositories)
 
 ---
 
