@@ -5,7 +5,6 @@
   💚<strong> Buscando me especializar em Python e Front-End.</strong>
 
 ---
-
 <h2 align="center"> My programming languages:</h2>  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,mysql" />
@@ -24,7 +23,7 @@
 ### 🌸 Meu Portfólio
 🔗 [Veja meus projetos aqui](https://github.com/nivea18?tab=repositories)
 
-
+#
 <h3 align="left">Contact me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:niveamariademelosantos80@gmail.com)
