@@ -5,10 +5,10 @@
   💚<strong> Buscando me especializar em Python e Front-End.</strong>
 </p>
 
----
+#
 
-<h2 align="center"> My programming languages: </h2>  
-<div>
+<h2 align="center"> My programming languages:</h2>  
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,mysql" />
 </div>
 
