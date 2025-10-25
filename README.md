@@ -11,8 +11,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,python,mysql" />
 </div>
 
-#
-
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nivea&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
  <img
