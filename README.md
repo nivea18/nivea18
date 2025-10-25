@@ -1,7 +1,7 @@
 <h1 align="center">✨ Olaá! Meu nome é Nívea ✨</h1>
 
 
-  💻 <strong> Estudante de Análise e Desenvolvimento de Sistemas da faculdade UNINASSAU e possuo diploma do curso técnico em ADS. Tenho interesse na área de web designer e banco de dados. Minhas principais linguagens são Python e SQL.</strong>
+  💻 <strong> Estudante de Análise e Desenvolvimento de Sistemas da faculdade UNINASSAU e possuo diploma do curso técnico em ADS. Tenho interesse na área de web designer e banco de dados. Minhas principais linguagens são Python e SQL. </strong>
   💚<strong> Buscando me especializar em Python e Front-End.</strong>
 
 ---
@@ -29,7 +29,5 @@
 ---
 ### 🌸 Meu Portfólio
 🔗 [Veja meus projetos aqui](https://github.com/nivea18?tab=repositories)
-
----
 
 
