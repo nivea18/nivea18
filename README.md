@@ -8,7 +8,7 @@
 ---
 
 <h2 align="center"> My programming languages: </h2>  
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=html,css,python,mysql" />
 </div>
 
