@@ -73,12 +73,6 @@ Olá! Me chamo Nívea Maria de Melo Santos, tenho 18 anos, sou natural de Pernam
 <br/>
 <br/>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nivea&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
- <img
-  height="160em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivea&layout=compact&theme=rose_pine&title_color=ff69b4&text_color=fce4ec&bg_color=20232a"/>
-</div>
 
 
 ---
