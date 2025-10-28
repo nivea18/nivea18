@@ -6,7 +6,14 @@ Olá! Me chamo Nívea Maria de Melo Santos, tenho 18 anos, sou natural de Pernam
 
 <p align="left">
   
-<a href="https://github.com/nivea18?tab=repositories&sort=stargazers">
+   <a href="https://github.com/nivea18?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+  
 <h2 align="center"> Minhas linguagens e tecnologias:</h2>  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,mysql" />
