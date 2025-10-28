@@ -10,11 +10,11 @@ Olá! Me chamo Nívea Maria de Melo Santos, tenho 18 anos, sou natural de Pernam
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/nivea18?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
 
-  <a href="https://github.com/Larissakich?tab=followers">
+  <a href="https://github.com/nivea18?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
