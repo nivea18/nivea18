@@ -22,7 +22,6 @@ Olá! Me chamo Nívea Maria de Melo Santos, tenho 18 anos, sou natural de Pernam
         />
     </a>
     
-   ![[Instagram](https://www.instagram.com/niveaa09/)]
 </p>
 
   
