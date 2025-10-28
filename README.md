@@ -1,11 +1,11 @@
-<h1 align="center">✨ Olaá! Meu nome é Nívea ✨</h1>
+<h1 align="cleft">👩‍💻Nívea Maria</h1>
 
 
   💻 <strong> Estudante de Análise e Desenvolvimento de Sistemas da faculdade UNINASSAU e possuo diploma do curso técnico em ADS. Tenho interesse na área de web designer e banco de dados. Minhas principais linguagens são Python e SQL. </strong>
   💚<strong> Buscando me especializar em Python e Front-End.</strong>
 
 ---
-<h2 align="center"> My programming languages:</h2>  
+<h2 align="center"> Minhas linguagens e tecnologias:</h2>  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,mysql" />
 </div>
