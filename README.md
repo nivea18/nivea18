@@ -93,15 +93,6 @@ Olá! Me chamo Nívea Maria de Melo Santos, tenho 18 anos, sou natural de Pernam
 
 </p>
 
-
-
-<br/>
-<br/>
-
-
-### 🌸 Meu Site de Portfólio
-🔗 [Veja meus projetos aqui](https://github.com/nivea18?tab=repositories)
-
 #
 <h3 align="left">Contact me!</h3>
 
@@ -109,4 +100,5 @@ Olá! Me chamo Nívea Maria de Melo Santos, tenho 18 anos, sou natural de Pernam
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/n%C3%ADvea-maria-817346335?)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/niveaa09/)
 
-
+### 🌸 Meu Site de Portfólio
+🔗 [Veja meus projetos aqui](https://github.com/nivea18?tab=repositories)
