@@ -83,18 +83,17 @@ Olá! Me chamo Nívea Maria de Melo Santos, tenho 18 anos, sou natural de Pernam
   <img 
     align="center" 
     alt="GitHub Stats" 
-    height="100" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=nivea18&show_icons=true&theme=omni&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
-     <div style="display: inline-block;">
+      align="center"
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivea18&theme=omni&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-<div/>
 
 # 
 
