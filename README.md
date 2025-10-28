@@ -25,7 +25,7 @@ Olá! Me chamo Nívea Maria de Melo Santos, tenho 18 anos, sou natural de Pernam
 
   
 ### 💻 Minhas linguagens e tecnologias:
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,python,mysql" />
 </div>
 
