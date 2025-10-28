@@ -1,10 +1,10 @@
-<h1 align="cleft">👩‍💻Nívea Maria</h1>
+# 👩‍💻 Nívea Maria
 
+**`Desenvolvedora Front-End`**
 
-  💻 <strong> Estudante de Análise e Desenvolvimento de Sistemas da faculdade UNINASSAU e possuo diploma do curso técnico em ADS. Tenho interesse na área de web designer e banco de dados. Minhas principais linguagens são Python e SQL. </strong>
-  💚<strong> Buscando me especializar em Python e Front-End.</strong>
+Olá! Me chamo Nívea Maria de Melo Santos, tenho 18 anos, sou natural de Pernambuco. Concluí o ensino médio em uma escola técnica estadual, com o curso técnico em (ADS) - Análise e Desenvolvimento de Sistemas. Atualmente estou cursando o curso superior de Análise e Desenvolvimento de Sistemas na UNINASSAU. Sou apaixonada por tecnologia e principalemnte da area de web designer.
 
----
+<p align="left">
 <h2 align="center"> Minhas linguagens e tecnologias:</h2>  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,mysql" />
