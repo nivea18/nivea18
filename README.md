@@ -5,6 +5,8 @@
 Olá! Me chamo Nívea Maria de Melo Santos, tenho 18 anos, sou natural de Pernambuco. Concluí o ensino médio em uma escola técnica estadual, com o curso técnico em (ADS) - Análise e Desenvolvimento de Sistemas. Atualmente estou cursando o curso superior de Análise e Desenvolvimento de Sistemas na UNINASSAU. Sou apaixonada por tecnologia e principalemnte da area de web designer.
 
 <p align="left">
+  
+<a href="https://github.com/nivea18?tab=repositories&sort=stargazers">
 <h2 align="center"> Minhas linguagens e tecnologias:</h2>  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,mysql" />
