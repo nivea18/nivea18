@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Olá! Me chamo Nívea Maria de Melo Santos, tenho 18 anos, sou natural de Pernambuco. Concluí o ensino médio em uma escola técnica estadual, com o curso técnico em (ADS) - Análise e Desenvolvimento de Sistemas. Atualmente estou cursando o curso superior de Análise e Desenvolvimento de Sistemas na UNINASSAU. Sou apaixonada por tecnologia e principalemnte na area de `Web Designer`.
+Olá! Me chamo Nívea Maria de Melo Santos, tenho 18 anos, sou natural de Pernambuco. Concluí o ensino médio em uma escola técnica estadual, com o curso técnico em (ADS) - Análise e Desenvolvimento de Sistemas. Atualmente estou trabalhando como freelancer e cursando o curso superior de Análise e Desenvolvimento de Sistemas na UNINASSAU. Sou apaixonada por tecnologia e principalemnte na area de `Web Designer`.
 
 <p align="left">
   
